@@ -1,6 +1,6 @@
 /*
  * Name: Adam Mason
- * Date: 2/11/2019
+ * Date: 2/12/2019
  * Project Description: Prompt user to enter the left and right operands and display the sum of the two.
  */
 import java.util.Scanner;
